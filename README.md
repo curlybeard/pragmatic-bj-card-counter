@@ -1,4 +1,4 @@
-# pragmatic-bj-card-counting
+# pragmatic-bj-card-counter
 
 A proof of concept project using one pragmatic table to demonstrate automatic online card counting is feasible 
 Scrapes card data from the pragmatic blackjack table websocket to keep track of the count
